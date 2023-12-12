@@ -413,10 +413,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "minimouse"
+      "minimouse",
+      "libairie.symbole"
     ],
     "pinned_symbol_libs": [
-      "minimouse"
+      "minimouse",
+      "librairie.symbole"
     ]
   },
   "meta": {
