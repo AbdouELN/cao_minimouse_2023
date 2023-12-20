@@ -252,14 +252,14 @@
     )
   )
 
-  (sheet (at 36.83 26.67) (size 36.83 16.51) (fields_autoplaced)
+  (sheet (at 33.02 27.94) (size 40.64 16.51) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 3f9b0845-5778-418c-a7a8-03da2392145e)
-    (property "Sheetname" "mm_power" (at 36.83 25.9584 0)
+    (property "Sheetname" "mm_power" (at 33.02 27.2284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "mm_power.kicad_sch" (at 36.83 43.7646 0)
+    (property "Sheetfile" "mm_power.kicad_sch" (at 33.02 45.0346 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
