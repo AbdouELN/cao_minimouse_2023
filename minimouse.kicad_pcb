@@ -2254,7 +2254,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical" (layer "F.Cu")
     (tstamp ab59e446-f810-460b-ad9f-dc685d4fa55e)
-    (at 210.4525 97.57)
+    (at 176.6 91.64)
     (descr "Through hole straight pin header, 1x06, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x06 2.54mm single row")
     (property "Sheetfile" "mm_motor.kicad_sch")
